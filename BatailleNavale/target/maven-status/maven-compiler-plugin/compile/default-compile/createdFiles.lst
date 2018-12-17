@@ -1,0 +1,15 @@
+application\modele\casesPlateau\CaseBateau.class
+application\modele\casesPlateau\ICaseBateau.class
+application\modele\IGestionBatailleNavalle$Orientation.class
+application\modele\CoordonneesInvalidesException.class
+application\modele\GestionBatailleNavale.class
+application\modele\casesPlateau\CaseNonExploree.class
+application\modele\PasDeBateauDeCetteTailleAPlacerException.class
+application\modele\Bateau.class
+application\modele\casesPlateau\CaseBateauTouchee.class
+application\modele\Plateau$1.class
+application\modele\casesPlateau\CaseMer.class
+application\modele\Joueur.class
+application\modele\IGestionBatailleNavalle.class
+application\modele\Plateau.class
+application\modele\casesPlateau\ICase.class
